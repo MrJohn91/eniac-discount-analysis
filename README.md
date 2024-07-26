@@ -1,4 +1,3 @@
-# eniac-discount-analysis
 # Eniac Discount Analysis
 
 ## Summary
@@ -10,8 +9,8 @@ This project involves a comprehensive analysis of discounts and their impact on 
   - pandas
   - seaborn
   - plotly
-  - matplotlib (for auxiliary purposes)
-  - Jupyter Notebook (for interactive analysis)
+  - matplotlib
+  - Jupyter Notebook
 
 ## Key Learnings
 - **Data Cleaning and Preprocessing:** Enhanced skills in handling missing values, data transformation, and ensuring data quality.
